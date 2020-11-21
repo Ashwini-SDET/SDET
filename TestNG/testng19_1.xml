@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="TestNG_Sessions.Activity15"/>
+      <class name="TestNG_Sessions.Activity16_1"/>
+      <class name="TestNG_Sessions.Activity16_2"/>
+      <class name="Session17.Activity17_2"/>
+      <class name="Session18.Activity18_1"/>
+      <class name="Session18.Activity18_2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
