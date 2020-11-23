@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-20T10:55:50 IST" name="Suite" finished-at="2020-11-20T10:58:18 IST" duration-ms="147869">
+    <groups>
+    </groups>
+    <test started-at="2020-11-20T10:55:50 IST" name="Test" finished-at="2020-11-20T10:58:18 IST" duration-ms="147869">
+      <class name="LMS_projects.Activity9">
+        <test-method is-config="true" signature="OpenURL()[pri:0, instance:LMS_projects.Activity9@66498326]" started-at="2020-11-20T10:57:57 IST" name="OpenURL" finished-at="2020-11-20T10:58:10 IST" duration-ms="12722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method signature="CompleteLesson()[pri:0, instance:LMS_projects.Activity9@66498326]" started-at="2020-11-20T10:58:10 IST" name="CompleteLesson" finished-at="2020-11-20T10:58:17 IST" duration-ms="6920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteLesson -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity9@66498326]" started-at="2020-11-20T10:58:17 IST" name="afterMethod" finished-at="2020-11-20T10:58:18 IST" duration-ms="1661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity9 -->
+      <class name="LMS_projects.Activity8">
+        <test-method is-config="true" signature="OpenURL()[pri:0, instance:LMS_projects.Activity8@51dcb805]" started-at="2020-11-20T10:57:41 IST" name="OpenURL" finished-at="2020-11-20T10:57:53 IST" duration-ms="11996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method signature="ContactUs()[pri:0, instance:LMS_projects.Activity8@51dcb805]" started-at="2020-11-20T10:57:53 IST" name="ContactUs" finished-at="2020-11-20T10:57:56 IST" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUs -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity8@51dcb805]" started-at="2020-11-20T10:57:56 IST" name="afterMethod" finished-at="2020-11-20T10:57:57 IST" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity8 -->
+      <class name="LMS_projects.Activity7">
+        <test-method is-config="true" signature="OpenURL()[pri:0, instance:LMS_projects.Activity7@625732]" started-at="2020-11-20T10:57:26 IST" name="OpenURL" finished-at="2020-11-20T10:57:38 IST" duration-ms="12171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method signature="Numberofcourses()[pri:0, instance:LMS_projects.Activity7@625732]" started-at="2020-11-20T10:57:38 IST" name="Numberofcourses" finished-at="2020-11-20T10:57:40 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Numberofcourses -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity7@625732]" started-at="2020-11-20T10:57:40 IST" name="afterMethod" finished-at="2020-11-20T10:57:41 IST" duration-ms="1490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity7 -->
+      <class name="LMS_projects.Activity6">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:LMS_projects.Activity6@120f102b]" started-at="2020-11-20T10:57:09 IST" name="beforeMethod" finished-at="2020-11-20T10:57:22 IST" duration-ms="12909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Login()[pri:0, instance:LMS_projects.Activity6@120f102b]" started-at="2020-11-20T10:57:22 IST" name="Login" finished-at="2020-11-20T10:57:25 IST" duration-ms="2996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity6@120f102b]" started-at="2020-11-20T10:57:25 IST" name="afterMethod" finished-at="2020-11-20T10:57:26 IST" duration-ms="1551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity6 -->
+      <class name="LMS_projects.Activity5">
+        <test-method is-config="true" signature="OpenURL()[pri:0, instance:LMS_projects.Activity5@41fecb8b]" started-at="2020-11-20T10:56:54 IST" name="OpenURL" finished-at="2020-11-20T10:57:06 IST" duration-ms="12625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method signature="Anotherpage()[pri:0, instance:LMS_projects.Activity5@41fecb8b]" started-at="2020-11-20T10:57:06 IST" name="Anotherpage" finished-at="2020-11-20T10:57:07 IST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Anotherpage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity5@41fecb8b]" started-at="2020-11-20T10:57:07 IST" name="afterMethod" finished-at="2020-11-20T10:57:09 IST" duration-ms="1545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity5 -->
+      <class name="LMS_projects.Activity4">
+        <test-method is-config="true" signature="OpenURL()[pri:0, instance:LMS_projects.Activity4@272ed83b]" started-at="2020-11-20T10:56:39 IST" name="OpenURL" finished-at="2020-11-20T10:56:51 IST" duration-ms="12028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method signature="secondpopular()[pri:0, instance:LMS_projects.Activity4@272ed83b]" started-at="2020-11-20T10:56:51 IST" name="secondpopular" finished-at="2020-11-20T10:56:52 IST" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondpopular -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity4@272ed83b]" started-at="2020-11-20T10:56:52 IST" name="afterMethod" finished-at="2020-11-20T10:56:54 IST" duration-ms="1563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity4 -->
+      <class name="LMS_projects.Activity3">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:LMS_projects.Activity3@732c2a62]" started-at="2020-11-20T10:56:20 IST" name="beforeClass" finished-at="2020-11-20T10:56:32 IST" duration-ms="12417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="firstinfobox()[pri:0, instance:LMS_projects.Activity3@732c2a62]" started-at="2020-11-20T10:56:32 IST" name="firstinfobox" finished-at="2020-11-20T10:56:38 IST" duration-ms="5106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstinfobox -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:LMS_projects.Activity3@732c2a62]" started-at="2020-11-20T10:56:38 IST" name="afterClass" finished-at="2020-11-20T10:56:39 IST" duration-ms="1616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- LMS_projects.Activity3 -->
+      <class name="LMS_projects.Activity2">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:LMS_projects.Activity2@1ba9117e]" started-at="2020-11-20T10:56:06 IST" name="beforeMethod" finished-at="2020-11-20T10:56:18 IST" duration-ms="12269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:LMS_projects.Activity2@1ba9117e]" started-at="2020-11-20T10:56:18 IST" name="f" finished-at="2020-11-20T10:56:18 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity2@1ba9117e]" started-at="2020-11-20T10:56:18 IST" name="afterMethod" finished-at="2020-11-20T10:56:20 IST" duration-ms="1606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity2 -->
+      <class name="LMS_projects.Activity1">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:LMS_projects.Activity1@a3d8174]" started-at="2020-11-20T10:55:51 IST" name="beforeMethod" finished-at="2020-11-20T10:56:04 IST" duration-ms="13647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pagetitle()[pri:0, instance:LMS_projects.Activity1@a3d8174]" started-at="2020-11-20T10:56:04 IST" name="pagetitle" finished-at="2020-11-20T10:56:04 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagetitle -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:LMS_projects.Activity1@a3d8174]" started-at="2020-11-20T10:56:04 IST" name="afterMethod" finished-at="2020-11-20T10:56:06 IST" duration-ms="1813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LMS_projects.Activity1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
